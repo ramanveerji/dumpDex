@@ -29,7 +29,7 @@ Branches
 
 ### How to Use
 
-Download and compile the source code or download the APK package and install it. After applying the Xposed module and restarting, the plugin will automatically dump dex files into the **/data/data/包名/dump** directory once a protected app is run.
+Download and compile the source code or download the APK package and install it. After applying the Xposed module and restarting, the plugin will automatically dump dex files into the **/data/data/package_name/dump** directory once a protected app is run.
 
 **The APK file will not be updated in real-time. To get the latest APK, please compile the source code yourself**
 
